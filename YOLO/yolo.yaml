@@ -1,0 +1,6 @@
+train: /content/drive/MyDrive/Nesrine_YOLOv8/YOLO/Training
+val: /content/drive/MyDrive/Nesrine_YOLOv8/YOLO/Validation
+test: /content/drive/MyDrive/Nesrine_YOLOv8/YOLO/Testing
+nc: 1
+names:
+  0: FISH
